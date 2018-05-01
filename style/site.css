@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+td,
+th {
+  text-align: left;
+  padding: 6px;
+  background-color: #ddd;
+}
+
+.right {
+  text-align: right;
+}
+
+.total td {
+  background-color: #aaa;
+  font-weight: bold;
+}
